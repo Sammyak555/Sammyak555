@@ -62,3 +62,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="90" height="90"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="90" height="90"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Sammyak555
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sammyak555&theme=dark&background=000000)](https://git.io/streak-stats)
