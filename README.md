@@ -66,7 +66,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sammyak555&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammyak555&layout=compact&theme=vision-friendly-dark)](https://github.com/Sammyak555/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sammyak555&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammyak555&layout=compact&theme=vision-friendly-dark)](https://github.com/Sammyak555/github-readme-stats)</div>
 
 
 
