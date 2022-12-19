@@ -52,7 +52,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div style="background-color:#33475b">
 
   <img src="https://t3.ftcdn.net/jpg/03/04/97/12/240_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" title="React" alt="React" width="75" height="75"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdi73jS5vJ-Z4igBUkc8-oXCsF8kSWtde4OgbcdXfkUQ&s" title="mongodb" alt="mongodb" width="75" height="75"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-3-1175138.png" title="mongodb" alt="mongodb" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI"  width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux "  width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"  width="75" height="75"/>&nbsp;
