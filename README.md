@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sammyak-deosale-1b9abb229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.hackerrank.com/sammyak_deosale1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank Badge"/>
   </a>
 </div>
