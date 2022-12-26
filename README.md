@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/sammyak_deosale1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank Badge"/>
   </a>
+<a href="https://app.netlify.com/teams/sammyak-deosale-1/overview">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify Badge"/>
+  </a>
 </div>
 
 ---
