@@ -65,7 +65,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sammyak555)](https://github.com/Sammyak555/github-profile-trophy)
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=Sammyak555)](https://github.com/Sammyak555/github-profile-trophy)</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammyak555&theme=dark&background=000000" alt="sammyak" width="1000" height="300"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sammyak555&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sammyak555" width="370"/></p>
