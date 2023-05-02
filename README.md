@@ -24,9 +24,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sammyak-deosale-1b9abb229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/sammyak_deosale1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank Badge"/>
-  </a>
 <a href="https://app.netlify.com/teams/sammyak-deosale-1/overview">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify Badge"/>
   </a>
@@ -36,7 +33,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
+- 👨🏻‍💻 Know more about me [Portfolio](https://Sammyak555.github.io/)
 - :telescope: I’m learning as a MERN Stack Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
