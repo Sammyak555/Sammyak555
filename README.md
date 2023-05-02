@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 👨🏻‍💻 Know more about me [Portfolio](https://Sammyak555.github.io/)
+- 👨🏻‍💻 Know more about me [Portfolio](https://sammyak555.github.io/)
 - :telescope: I’m learning as a MERN Stack Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -62,7 +62,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sammyak555&theme=onedark)](https://github.com/Sammyak555/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sammyak555&theme=onedark)](https://github.com/Sammyak555/github-profile-trophy) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammyak555&theme=dark&background=000000" alt="sammyak" width="1000" height="300"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sammyak555&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sammyak555" width="370"/></p>
